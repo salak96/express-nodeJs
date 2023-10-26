@@ -1,0 +1,18 @@
+# node js
+.node-modules
+# ignore all logs
+*.log
+# ignore all temp files
+*.tmp   
+# ignore node modules
+node_modules
+# ignore yarn.lock
+yarn.lock
+# ignore tsconfig.json
+tsconfig.json
+# ignore package.json
+package.json
+# ignore package-lock.json
+package-lock.json
+# ignore yarn.lock
+yarn.lock
